@@ -38,8 +38,6 @@ python examples/iv/run_paper_like.py \
 
 - `examples/iv/prepare_kaggle_optionsdx.py` -> raw Kaggle files to prepared CSV
 - `examples/iv/replicate_iv_paper.py` -> model evaluation (random vs chronological)
-- `examples/iv/mean_reversion_iv.py` -> coverage-aware mean-reversion analysis
-- `examples/iv/eda.py` -> EDA outputs
 - `examples/iv/IV_leakage_analysis.ipynb` -> exploratory notebook
 
 ## Article run (fixed seed)
